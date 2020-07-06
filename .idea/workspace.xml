@@ -19,13 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14ceffcc-cbda-45af-8141-4869a26708aa" name="Default Changelist" comment="all file" />
+    <list default="true" id="14ceffcc-cbda-45af-8141-4869a26708aa" name="Default Changelist" comment="all file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dxSSZKRVjoGXZDXPl8joWQ902G" />
@@ -75,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594066493399</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="all file">
+      <created>1594066707731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594066707731</updated>
+    </task>
+    <task id="LOCAL-00003" summary="all file">
+      <created>1594067148596</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594067148596</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,10 +121,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593365392431" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594066180728">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594067336277">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594066180728" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594067336277" />
     <state x="838" y="418" key="Github.ShareDialog" timestamp="1593366078019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -127,9 +149,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="491" y="138" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594063504628" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594066523971">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594067200115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594066523971" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594067200115" />
   </component>
 </project>
