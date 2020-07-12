@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594067148596</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="all file">
+      <created>1594067379373</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594067379373</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,10 +128,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593365392431" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594067336277">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594572003129">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594067336277" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594572003129" />
     <state x="838" y="418" key="Github.ShareDialog" timestamp="1593366078019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -145,13 +152,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593366556888" />
-    <state x="491" y="138" key="SettingsEditor" timestamp="1594063504628">
+    <state x="491" y="138" key="SettingsEditor" timestamp="1594571816791">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="491" y="138" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594063504628" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594067200115">
+    <state x="491" y="138" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594571816791" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594067407211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594067200115" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594067407211" />
   </component>
 </project>
